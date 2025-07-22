@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student at Taita Taveta University
+A student at Taita Taveta University.Currently working to perfect my backend skills "Django"
 
 
 ## 🌐 Socials:
